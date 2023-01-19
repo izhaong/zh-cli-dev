@@ -1,6 +1,6 @@
 {
   "name": "@zh-dev-cli/core",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "> TODO: description",
   "author": "izhaong <izhaong@outlook.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@zh-dev-cli/utils": "^1.0.2"
+    "@zh-dev-cli/utils": "^1.0.6"
   },
   "gitHead": "c8146d65d02a3e376e08f1fb02e7bf030f64b401"
 }

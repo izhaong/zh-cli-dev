@@ -1,11 +1,11 @@
-# `@zh-cli-dev/utils`
+# `@zh-dev-cli/utils`
 
 > TODO: description
 
 ## Usage
 
 ```
-const utils = require('@zh-cli-dev/utils');
+const utils = require('@zh-dev-cli/utils');
 
 // TODO: DEMONSTRATE API
 ```

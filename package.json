@@ -1,5 +1,5 @@
 {
-  "name": "zh-cli-dev",
+  "name": "zh-dev-cli",
   "version": "1.0.2",
   "workspaces": [
     "packages/*"
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/izhaong/zh-cli-dev.git"
+    "url": "git+https://github.com/izhaong/zh-dev-cli.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/izhaong/zh-cli-dev/issues"
+    "url": "https://github.com/izhaong/zh-dev-cli/issues"
   },
-  "homepage": "https://github.com/izhaong/zh-cli-dev#readme",
+  "homepage": "https://github.com/izhaong/zh-dev-cli#readme",
   "description": ""
 }

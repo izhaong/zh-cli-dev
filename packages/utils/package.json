@@ -1,5 +1,5 @@
 {
-  "name": "@zh-cli-dev/utils",
+  "name": "@zh-dev-cli/utils",
   "version": "1.0.2",
   "description": "> TODO: description",
   "author": "izhaong <izhaong@outlook.com>",
@@ -17,6 +17,6 @@
     "registry": "https://registry.npmmirror.com/"
   },
   "scripts": {
-    "test": "node ./__tests__/@zh-cli-dev/utils.test.js"
+    "test": "node ./__tests__/@zh-dev-cli/utils.test.js"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "name": "zh-dev-cli",
-  "version": "1.0.2",
+  "name": "root",
+  "private": true,
   "workspaces": [
     "packages/*"
   ],

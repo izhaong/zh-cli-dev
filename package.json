@@ -1,17 +1,10 @@
 {
-  "name": "zh-cli",
-  "version": "1.0.0",
-  "description": "个人自定义脚手架, 集成项目基础建设.一次编写, 终身维护",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "cli",
-    "仲灏",
-    "脚手架",
-    "前端"
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
   ],
-  "author": "izhaong <izhaong@outlook.com>",
-  "license": "ISC"
+  "devDependencies": {
+    "lerna": "^6.4.1"
+  }
 }

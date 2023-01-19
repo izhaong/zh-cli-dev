@@ -20,5 +20,5 @@
   "scripts": {
     "test": "node ./__tests__/@zh-dev-cli/utils.test.js"
   },
-  "gitHead": "990fe137d23dc6156b04b30f0fd159b08b060bb2"
+  "gitHead": "4b17460b8636d90e1c961e906cc57fd7f709be7f"
 }
